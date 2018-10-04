@@ -32,8 +32,7 @@ header h3{
 }
 
 nav{
-  background-color: #5F87DF;
-  opacity: 0.7;
+  background-color: #2F605750;
   height: 106px;
 }
 
@@ -86,8 +85,8 @@ input[type=text], select, textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #CF985C80;
+  color: #94422A;
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
@@ -96,7 +95,7 @@ input[type=submit] {
 
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #CF985C;
 }
 
 /* Add a background color and some padding around the form */
@@ -113,6 +112,14 @@ input[type=submit]:hover {
   font-weight: 400;
 }
 
+.projects {
+  color: #2F605790;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  text-align: auto;
+}
+
 .linkcolor {
   color: #94422A;
 }
@@ -121,12 +128,14 @@ input[type=submit]:hover {
   color: #CF985C;
 }
 
-.projects {
-  color: #000000;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 20px;
-  font-weight: 400;
+.navlink {
+  color: #AA773F;
 }
+
+.navlink:hover {
+  color: #94422A;
+}
+
 
 
 
