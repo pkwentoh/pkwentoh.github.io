@@ -5,7 +5,7 @@ header h1{
   font-weight: 400;
   text-align: center;
   display: inline-block;
-  padding-top: 110px;
+  padding-top: 135px;
   padding-right: 110px;
 
 }
@@ -45,6 +45,7 @@ nav h3{
   padding-top: 40px;
 }
 
+/* Gotta figure out how this class is linking */
 .section h3{
   color: #94422A;
   font-family: 'Josefin Sans', sans-serif;
@@ -106,14 +107,14 @@ input[type=submit]:hover {
 }
 
 .about{
-  color: #000000;
+  color: #616366;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 20px;
   font-weight: 400;
 }
 
 .projects {
-  color: #2F605790;
+  color: #616366;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 30px;
   font-weight: 400;
